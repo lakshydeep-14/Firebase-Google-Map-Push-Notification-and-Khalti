@@ -7,7 +7,8 @@ import 'package:go_haul/dashboard.dart';
 
 khaltiScreen(BuildContext context) {
   FlutterKhalti _flutterKhalti = FlutterKhalti.configure(
-      publicKey: "", //Add your public key
+      publicKey: "",
+      //Add your public key
       urlSchemeIOS: "KhaltiPayFlutterExampleSchema");
   KhaltiProduct product = KhaltiProduct(
     id: "test",

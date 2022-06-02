@@ -1,4 +1,4 @@
-# Firebase, Googel Map, Khalti, Custom Map Marker, Polylines, Push Notification
+# Firebase, Google Map, Khalti, Custom Map Marker, Polylines, Push Notification
 
 <p><img src="map.gif" alt="flutter" width="200" height="400"/>
 

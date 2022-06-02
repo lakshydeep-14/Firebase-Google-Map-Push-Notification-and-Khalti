@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952363250030",
+    "project_id": "go-haul-221f6",
+    "storage_bucket": "go-haul-221f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952363250030:android:10db7eed448055a10a917f",
+        "android_client_info": {
+          "package_name": "com.example.go_haul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952363250030-15ul1r0bits7n716fh5egov1dnmu3tgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjRHtSWXMHP1waycIUC4wm07-aXZlUPZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952363250030-15ul1r0bits7n716fh5egov1dnmu3tgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
